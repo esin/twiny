@@ -1,0 +1,10 @@
+#summary Commands which Twiny supports in full mode.
+#labels Commands,Featured,Onenglish,Fullmode
+
+Command    Explanation <br>
+*/help* - Shows help by commands <br>
+*/quit* - Quitting from programm <br>
+*/twit _new status_* - Posting _new status_ to twitter.com <br>
+*/info _username_* - Getting info about _username_, if without _username_ getting info about current username <br>
+*/dm _username_ _message_* - Sending direct _message_ to _username_<br>
+*/follow _username_ * - Following to _username_<br>

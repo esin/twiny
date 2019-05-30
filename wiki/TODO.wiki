@@ -1,0 +1,5 @@
+#summary TODO list
+
+Things which i must to do with twiny:
+  * OAuth
+  * Porting to Windows, Mac OS and BSD
